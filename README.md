@@ -15,8 +15,7 @@ The project is available on GitHub. To use the project, you will need to clone t
 The project contains the following files:
 
 README.md - This file provides a description of the project.
-train.ipynb - This Jupyter notebook trains the model.
-predict.ipynb - This Jupyter notebook tests the model.
+Hate Speech Detection-checkpoint.ipynb - This Jupyter notebook trains and tests the model.
 data.csv - This CSV file contains the dataset that is used to train and test the model.
 
 ## Credits
